@@ -121,7 +121,7 @@ export const socials = [
 
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/CardagumOfficial",
       },
         /*
       // {
@@ -179,7 +179,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/goosedefi",
+    href: "https://twitter.com/Cardagum",
   },
   {
     label: "Reddit",
