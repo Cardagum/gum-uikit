@@ -118,12 +118,11 @@ export const socials = [
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
-
       {
         label: "English",
         href: "https://t.me/CardagumOfficial",
       },
-        /*
+      /*
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
