@@ -118,10 +118,12 @@ export const socials = [
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
+
       {
         label: "English",
         href: "https://t.me/goosedefi",
       },
+        /*
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
@@ -170,6 +172,8 @@ export const socials = [
         label: "Price Bot",
         href: "https://t.me/BinanceRocketEGG",
       },
+
+         */
     ],
   },
   {
